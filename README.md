@@ -49,38 +49,47 @@ This project combines the speed of modern front-end frameworks, the reliability 
 
 ---
 
-## Why UniMarket Stands Out
+## 🌟 Why UniMarket Stands Out
 
-### 1. Emotion Before Interface  
-Unlike standard wellness platforms that start with rigid forms and menus, **UniMarket begins with empathy**.  
-Every screen, from the breathing orb to the conversational AI echo, listens before it instructs — allowing users to feel understood before they are guided.
-
----
-
-### 2. AI That Reflects, Not Dictates  
-Our Gemini-powered “Echo AI” doesn’t prescribe or score behavior.  
-It mirrors tone, rhythm, and emotional context — turning analytics into reflection.  
-UniMarket transforms raw input into dialogue, making emotion tracking feel conversational rather than clinical.
+### 🎓 1. Built for Real Student Communities  
+UniMarket isn’t just another marketplace — it’s built around campus life.  
+Every feature, from verification to delivery, is designed to make student trading safe, simple, and trustworthy.
 
 ---
 
-### 3. Design as Therapy  
-The visual language of Rest Quest is not decorative — it’s therapeutic.  
-Mesh gradients, orbiting layers, and glassmorphic surfaces synchronize with breathing cues.  
-Motion is calibrated to calm the mind and reduce cognitive load, inviting *scrolls that soothe*.
+### 🤖 2. AI-Powered Fair Pricing  
+Using Gemini AI, UniMarket compares item prices across online marketplaces to suggest fair, transparent values.  
+It helps buyers avoid overpaying and rewards sellers for fair listings.
 
 ---
 
-### 4. Rituals Over Routines  
-Instead of one-size-fits-all sessions, users curate a **Ritual Stack** — personalized emotional experiences that evolve over time.  
-Each ritual becomes a living playlist that adapts to your pace, energy, and seasonal mood.
+### 🔐 3. Verified Trust System  
+Users verify their identity through email or student domain, and both buyers and sellers confirm exchanges using a unique **handoff code** — no scams, no uncertainty, just trust.
 
 ---
 
-### 5. Cinematic Yet Lightweight  
-Built entirely with **vanilla web technology**, **no heavy 3D engines**, and optimized animations.  
-Despite its cinematic depth, the SPA runs smoothly even on mid-tier devices — delivering luxury calm at minimal computational cost.
+### ⚙️ 4. Auctions Made Simple  
+Students can host live auctions for textbooks, electronics, or dorm goods with real-time bidding, animated price graphs, and transparent commission logic.
 
+---
+
+### 💸 5. Commission That Gives Back  
+A small platform commission (e.g., 10%) feeds into a **loyalty pool** — returning cashback and perks to active users who help grow the UniMarket community.
+
+---
+
+### 🎨 6. Clean, Modern Design  
+UniMarket blends calm academic colors with intuitive layouts — designed to feel as familiar as a campus noticeboard, yet as fluid as a fintech dashboard.
+
+---
+
+### 💬 7. For Students, By Students  
+Every line of UniMarket’s design reflects how real students buy and sell: fast, honest, and flexible.  
+It’s not about corporate resale — it’s about **community-driven commerce.**
+
+---
+
+> 🪙 **UniMarket turns student trade into a trusted network — where AI ensures fairness, and every deal builds community.**
 ---
 
 
